@@ -12,7 +12,6 @@ eSight is a device consisting of an AI-based camera attached to an eye spectacle
   02 : How Sight Works:-</br></br>
        Sight contains a raspberry pi (powered by android  things) & camera the raspberry pi continuously monitors the person  vision through   The camera  and Sight will take a picture and analyze the image using  yolo v3  and detect what is that picture is about, then using a  speaker or headphone, the Sight will voice assist the person about  that picture.
           
-  <img  width="35%" alt='Glass'   src='https://user-images.githubusercontent.com/94343329/219104524-30064e4c-839e-4beb-a4ad-dc31258cf74f.jpg' />
   
   ## MODULE' S  USED:
   <ul>
